@@ -46,6 +46,9 @@ INSTALLED_APPS = [
     # apps
     "users",
     "zones",
+    "departments",
+    "dishes",
+    "orders",
 
     # libraries
     "corsheaders",
